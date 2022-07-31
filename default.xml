@@ -1115,9 +1115,10 @@
   <!-- Remove unused AOSP repos -->
   <include name="snippets/remove.xml" />
 
-  <!-- Add all PixelExperience repos -->
+  <!-- Track our custom repos -->
   <include name="snippets/pixel.xml" />
   <include name="snippets/pixel-extras.xml" />
   <include name="snippets/pixel-caf.xml" />
+  <include name="snippets/eternity.xml" />
 
 </manifest>
