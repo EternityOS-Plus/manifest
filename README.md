@@ -8,7 +8,7 @@ Syncing the source
 
 ```
 # Initialize local repository
-repo init -u https://github.com/EternityOS/manifest -b 12.1
+repo init -u https://github.com/EternityOS-Plus/manifest -b 12.1
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
