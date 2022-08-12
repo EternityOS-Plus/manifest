@@ -44,7 +44,7 @@
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="eternity" />
   <project path="packages/apps/RepainterServicePriv" name="packages_apps_RepainterServicePriv" remote="eternity" />
   
-<!-- Vendor repos -->
+  <!-- Vendor repos -->
   <project path="vendor/aosp" name="vendor_aosp" remote="eternity" />
 
 </manifest> 
