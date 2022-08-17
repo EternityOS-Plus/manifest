@@ -38,6 +38,7 @@
   
   <!-- Packages repos -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="eternity" />
+  <project path="packages/apps/EternitySettings" name="packages_apps_EternitySettings" remote="eternity" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="eternity" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="eternity" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="eternity" />
